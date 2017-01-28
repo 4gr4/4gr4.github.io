@@ -21,7 +21,7 @@ h1 {
 		color: #333333;
 		background-color: #ff545a;
 		font-weight: bold;
-		width: 130px;
+		width: auto;
 		height: 30px;
 		margin: auto;
 		float: right;
