@@ -22,7 +22,7 @@ h1 {
 		background-color: #ff545a;
 		font-weight: bold;
 		width: auto;
-		height: 30px;
+		height: auto;
 		margin: auto;
 		float: right;
 		border: 1px solid black;
@@ -35,7 +35,7 @@ h1 {
 		background-color: #37d000;
 		font-weight: bold;
 		width: auto;
-		height: 30px;
+		height: auto;
 		margin: auto;
 		float: right;
 		border: 1px solid black;
@@ -49,7 +49,7 @@ h1 {
 		background-color: #ff41fa;
 		font-weight: bold;
 		width: 125px;
-		height: 30px;
+		height: auto;
 		margin: auto;
 		float: right;
 		border: 1px solid black;
