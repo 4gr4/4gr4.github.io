@@ -50,6 +50,7 @@ h1 {
 		font-weight: bold;
 		width: 125px;
 		height: auto;
+		margin: auto;
 		float: right;
 		border: 1px solid black;
 		position: relative;
